@@ -2,3 +2,4 @@ Hi
 I am learning git right now
 made change now
 adding image
+changing to check merge conflict test
