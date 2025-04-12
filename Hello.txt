@@ -1,4 +1,10 @@
 Hi 
 I am learning git right now
 made change now
+<<<<<<< HEAD
 fixing imaginary error!
+=======
+adding image
+changing to check merge conflict test
+>>>>>>> hello-world-images
+adding this line to fix conflicts
