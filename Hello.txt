@@ -8,3 +8,4 @@ adding image
 changing to check merge conflict test
 >>>>>>> hello-world-images
 adding this line to fix conflicts
+trying git branch section of tutorial
